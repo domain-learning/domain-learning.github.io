@@ -13,3 +13,6 @@ features = ["secure", "fast", "search", "dark mode", "widgets"]
 [author]
   name = "George Cushen"
   homepage = "https://georgecushen.com/"
+
+[params]
+  customCSS = ["css/custom.css"]
