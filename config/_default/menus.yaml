@@ -4,17 +4,18 @@
 
 main:
   - name: Home
-    url: /#top
+    url: /#home
     weight: 10
-  - name: Features
-    url: /#features
+  - name: Schedule
+    url: /#schedule
     weight: 20
-  - name: Solutions
-    url: /#solutions
+  - name: Organizers
+    url: /#organizers
     weight: 30
   - name: Resources
+    url: /#resources
     weight: 40
-    hasChildren: true
-  - parent: Resources
-    name: Blog
-    url: blog/
+  #   hasChildren: true
+  # - parent: Resources
+  #   name: Blog
+  #   url: blog/
