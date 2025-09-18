@@ -1,3 +1,5 @@
+
+
 .navbar-brand svg{
     height:2em;
 }
@@ -13,10 +15,14 @@ header {
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 50; /* keeps it above content */
-  background: rgba(0,0,0,0.85); /* or your theme’s background */
-  backdrop-filter: blur(6px);   /* nice frosted effect */
+  z-index: 50;
+  background: rgba(0,0,0,0.85);  /* fallback color */
+  
+  /* Backdrop filter */
+  -webkit-backdrop-filter: blur(6px);  /* Safari */
+  backdrop-filter: blur(6px);          /* Modern browsers */
 }
+
 
 /* Base: normal nav links */
 nav a {
@@ -34,21 +40,33 @@ nav a {
   
 /* Custom class for gradient text */
 .text-gradient {
-    background: linear-gradient(90deg, violet, blue);
+    background: linear-gradient(90deg, violet, rgb(0, 68, 255));
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
     color: transparent;
     transition: all 0.3s ease;
-  }
+  }/* cross-browser gradient text for active nav item */
+.text-gradient {
+  background-image: linear-gradient(90deg, #ed3aba, #0658d4);
+  -webkit-background-clip: text; /* Safari / WebKit */
+  background-clip: text;
+  -webkit-text-fill-color: transparent; /* Safari needs this */
+  color: transparent; /* fallback */
+  /* Ensure background is clipped to inline text */
+  display: inline-block;
+}
+
 
   
 .max-w-prose {
+    /* max-width: 100ch; */
     max-width: 100ch;
 }
 
 .card{
-    background-color: rgba(0, 0, 0, 0.4);
+    /* background-color: rgba(0, 0, 0, 0.4); */
+    background-color: var(--color-gray-900);
 }
 
 .card p{
@@ -162,4 +180,63 @@ body, html {
     100% { transform: translateY(-100vh); opacity: 0;}
   }
   
+  
+  .powered-by{
+    display: none;
+  }
+
+
+  .fade-in {
+    opacity: 0;               /* initially invisible */
+    transform: translateY(20px); /* slight downward offset */
+    transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+  }
+  
+  .fade-in.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+
+  #tutorial-content p, 
+  #tutorial-participants p{
+    text-align: justify;   /* justify the text */
+    hyphens: auto;         /* optional: break long words nicely */
+  }
+  
+  /* Target the hero/home container */
+#tutorial-content .flex {
+  padding-left: 1rem;  /* px-4 = 1rem */
+  padding-right: 1rem;
+}
+
+h1, h2, h3 {
+  opacity:.8;
+}
+
+
+
+.join-btn {
+  background: linear-gradient(90deg, #ed3aba, #0658d4);; /* remove default background */
+  position: relative;
+  display: inline-block;
+  cursor: not-allowed;
+  border: none;
+}
+
+/* Optional: add subtle border and hover effect */
+.join-btn:hover {
+  /* filter: brightness(1.2); */
+  /* filter: brightness(0.6); */
+  opacity:.4;
+}
+
+
+#tooltip {
+  white-space: nowrap;
+  transition: opacity 0.2s;
+  opacity: 0.95;
+  background: black;
+  padding: 15px;
+}
   

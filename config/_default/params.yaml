@@ -34,8 +34,8 @@ header:
     align: 'center'
     fixed_to_top: true
     logo:
-      text: ''
       # Logo filename in `assets/media/` folder
+      enable: true
       filename: 'logo.svg'
     button:
       enable: false
