@@ -187,9 +187,10 @@ sections:
 
         #### Misc:
 
-        - MAcq: The Model Acquisition Toolkit: [Github](https://github.com/AI-Planning/macq)  [Website](https://macq.planning.domains/) 
-        - The AIPlan4EU Unified Planning Library: [Github](https://github.com/aiplan4eu/unified-planning) [Docs](https://unified-planning.readthedocs.io/en/latest/)
-        - PDDL generators: [Github](https://github.com/AI-Planning/pddl-generators)
+        - AMLGym: benchmarking action model learning [GitHub](https://github.com/LamannaLeonardo/AMLGym) [Docs](https://amlgym.readthedocs.io/en/latest/) 
+        - MAcq: The Model Acquisition Toolkit: [GitHub](https://github.com/AI-Planning/macq)  [Website](https://macq.planning.domains/) 
+        - The AIPlan4EU Unified Planning Library: [GitHub](https://github.com/aiplan4eu/unified-planning) [Docs](https://unified-planning.readthedocs.io/en/latest/)
+        - PDDL generators: [GitHub](https://github.com/AI-Planning/pddl-generators)
 
         ---
 
