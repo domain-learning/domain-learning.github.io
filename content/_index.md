@@ -29,7 +29,7 @@ sections:
           Tutorial at the AAAI 2026 Conference — 3.5 hours of theory and hands-on practice
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300">
-          January 31<sup>st</sup> 2026
+          January 21<sup>st</sup> 2026
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300 mt-12">
           <b>Room TBD at TBD Floor</b>, Singapore EXPO
