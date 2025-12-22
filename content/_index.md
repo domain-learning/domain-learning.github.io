@@ -29,7 +29,7 @@ sections:
           Tutorial at the AAAI 2026 Conference — 3.5 hours of theory and hands-on practice
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300">
-          January 21<sup>st</sup> 2026
+          8.30am - 12.30pm, January 21<sup>st</sup> 2026
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300 mt-12">
           <b>Room TBD at TBD Floor</b>, Singapore EXPO
@@ -37,14 +37,17 @@ sections:
         
         <!-- Centered Button -->
         <div class="flex justify-center mt-12 relative">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLScGuUMdi7wfT5wbSFqeVcWsdommjFT4zfXDxijXW64RCMOImA/viewform?usp=dialog" target="_blank" >
           <button id="joinVirtualBtn" class="join-btn font-semibold text-xl py-3 px-6 rounded-full border border-gray-300">
-            Join us virtually
+            Rate This Tutorial
           </button>
+          </a>
 
-          <!-- Tooltip / small modal -->
+          <!-- Tooltip / small modal
           <div id="tooltip" class="fixed hidden bg-black text-white text-sm rounded px-3 py-2 pointer-events-none z-50">
             Link not yet available
-          </div>
+          </div> 
+           -->
         </div>
 
         <div class="flex justify-center items-center space-x-8 mt-12">
@@ -118,12 +121,12 @@ sections:
 
         | Time       | Session                           | Speaker                           | Slides                           |
         |------------|-----------------------------------|-----------------------------------|-----------------------------------|
-        | 08:30–09:00 | Introduction & Domain Learning Basics | <a href="/#roni">Roni Stern</a> | TBD |
-        | 09:00–10:00 | Offline Learning Domain Models  | <a href="/#leonardo">Leonardo Lamanna</a> | TBD |
-        | 10:00–10:30 | Learning State Abstractions | <a href="/#chris">Christian Muise</a> (or <a href="/#roni">Roni Stern</a>) | TBD |
-        | 10:30–10:45 | Coffee Break &#9749;                |  |  |
-        | 11:00–11:30 | Hands-on Session | <a href="/#chris">Christian Muise</a> (or <a href="/#leonardo">Leonardo Lamanna</a>) | TBD |
-        | 11:30–12:00 | Online Learning and Open Challenges | <a href="/#roni">Roni Stern</a> | TBD |
+        | 08:30–09:15 | Introduction & Domain Learning Basics | <a href="/#roni">Roni Stern</a> | TBD |
+        | 09:15–09:45 | Learning State Abstractions | <a href="/#roni">Roni Stern</a> | TBD |
+        | 09:45–10:30 | Offline Learning Domain Models  | <a href="/#leonardo">Leonardo Lamanna</a> | TBD |
+        | 10:30–11:00 | Coffee Break &#9749;                |  |  |
+        | 11:00–11:45 | Hands-on Session | <a href="/#leonardo">Leonardo Lamanna</a> | TBD |
+        | 11:45–12:30 | Online Learning and Open Challenges | <a href="/#roni">Roni Stern</a> | TBD |
     design:
       css_class: "dark"
 
