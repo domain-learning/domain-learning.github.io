@@ -170,31 +170,31 @@ document.addEventListener("DOMContentLoaded", () => {
 
 // Meeting link join button
 
-document.addEventListener("DOMContentLoaded", () => {
+// document.addEventListener("DOMContentLoaded", () => {
 
-  const btn = document.getElementById('joinVirtualBtn');
-  const tooltip = document.getElementById('tooltip');
+//   const btn = document.getElementById('joinVirtualBtn');
+//   const tooltip = document.getElementById('tooltip');
 
-  btn.addEventListener('mouseenter', (e) => {
-    tooltip.classList.remove('hidden');
-    positionTooltip(e);
-  });
+//   btn.addEventListener('mouseenter', (e) => {
+//     tooltip.classList.remove('hidden');
+//     positionTooltip(e);
+//   });
 
-  btn.addEventListener('mousemove', (e) => {
-    positionTooltip(e);
-  });
+//   btn.addEventListener('mousemove', (e) => {
+//     positionTooltip(e);
+//   });
 
-  btn.addEventListener('mouseleave', () => {
-    tooltip.classList.add('hidden');
-  });
+//   btn.addEventListener('mouseleave', () => {
+//     tooltip.classList.add('hidden');
+//   });
 
-  function positionTooltip(e) {
-    const offset = 12; // distance from cursor
-    tooltip.style.top = `${e.clientY + offset}px`;
-    tooltip.style.left = `${e.clientX + offset}px`;
-  }
+//   function positionTooltip(e) {
+//     const offset = 12; // distance from cursor
+//     tooltip.style.top = `${e.clientY + offset}px`;
+//     tooltip.style.left = `${e.clientX + offset}px`;
+//   }
 
-});
+// });
 
 
 document.addEventListener("DOMContentLoaded", () => {
