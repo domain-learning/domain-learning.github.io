@@ -194,6 +194,8 @@ sections:
         - MAcq: The Model Acquisition Toolkit: [GitHub](https://github.com/AI-Planning/macq)  [Website](https://macq.planning.domains/) 
         - The AIPlan4EU Unified Planning Library: [GitHub](https://github.com/aiplan4eu/unified-planning) [Docs](https://unified-planning.readthedocs.io/en/latest/)
         - PDDL generators: [GitHub](https://github.com/AI-Planning/pddl-generators)
+        - PDDL 3.1 parser: [GitHub](https://github.com/AI-Planning/pddl)
+        - L2P : LLM-driven Planning Model library kit: [GitHub](https://github.com/AI-Planning/l2p)
 
         ---
 
