@@ -220,4 +220,43 @@ sections:
         ---
     design:
       css_class: "dark"
+
+  - block: markdown
+    id: acknowledgements
+    content:
+      title: 
+      text: |
+
+        <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mt-0 mb-12 text-center">Acknowledgements</h2>
+
+        <div class="flex justify-center items-center space-x-8 mt-24">
+          <a href="https://www.bgu.ac.il/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
+            <img src="/assets/media/bengurion_logo_original.png" class="max-h-full max-w-full object-contain">
+          </a>
+
+          <a href="https://www.fbk.eu/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
+            <img src="/assets/media/fbk_logo_original.png" style="height:90%; object-fit:contain;">
+          </a>
+
+          <a href="https://www.queensu.ca/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
+            <img src="/assets/media/queens_logo_original.png" class="max-h-full max-w-full object-contain">
+          </a>
+        </div>
+
+
+        <div class="flex justify-center items-center space-x-8 mt-12">
+          <a href="https://mulab.ai/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
+            <img src="/assets/media/mulab.png" class="max-h-full max-w-full object-contain">
+          </a>
+          <a href="https://fondazione-fair.it/en/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
+            <img src="/assets/media/fair_logo.png" class="max-h-full max-w-full object-contain">
+          </a>
+          <a href="https://www.8ra.com/ipcei-cis/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
+            <img src="/assets/media/ipcei_cis_logo.jpg" class="max-h-full max-w-full object-contain", style="border-radius: 25px;">
+          </a>
+        </div> 
+
+        
+    design:
+      css_class: "dark"
 ---
