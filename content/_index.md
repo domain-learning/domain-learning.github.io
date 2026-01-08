@@ -32,8 +32,9 @@ sections:
           8.30am - 12.30pm, January 21<sup>st</sup> 2026
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300 mt-12">
-          <b>Room TBD at TBD Floor</b>, Singapore EXPO
+          <b>Room Topaz Meeting at 2<sup>nd</sup> Level</b>, Singapore EXPO
         </p>
+        
         
         <!-- Centered Button -->
         <div class="flex justify-center mt-12 relative">
@@ -61,6 +62,8 @@ sections:
             <img src="/assets/media/bengurion_logo_transparent.png" class="h-8 md:h-10 object-contain">
           </a>
         </div> 
+        
+        <img src="/assets/media/map.jpg" alt="Venue map" class="mx-auto w-full max-w-md mt-6 rounded-lg shadow-md" />
     
     
     design:
