@@ -124,12 +124,12 @@ sections:
 
         | Time       | Session                           | Speaker                           | Slides                           |
         |------------|-----------------------------------|-----------------------------------|-----------------------------------|
-        | 08:30–09:15 | Introduction & Domain Learning Basics | <a href="/#roni">Roni Stern</a> | TBA |
-        | 09:15–09:45 | Learning State Abstractions | <a href="/#roni">Roni Stern</a> | TBA |
+        | 08:30–09:15 | Introduction & Domain Learning Basics | <a href="/#roni">Roni Stern</a> | <a href="https://docs.google.com/presentation/d/1oifxHpg_CL0kwwHnjcFu4XZPZulSxloc/edit?usp=sharing&ouid=110881615268345929742&rtpof=true&sd=true">Link</a> |
+        | 09:15–09:45 | Learning State Abstractions | <a href="/#roni">Roni Stern</a> | <a href="https://docs.google.com/presentation/d/18r16PhJuQvE-btOY16BEV725xGfv8IPp/edit?usp=sharing&ouid=110881615268345929742&rtpof=true&sd=true">Link</a> |
         | 09:45–10:30 | Offline Learning Domain Models  | <a target="_blank" rel="noopener noreferrer" href="/#leonardo">Leonardo Lamanna</a> | <a href="https://drive.google.com/file/d/11p8k069kU_DXmL1A3pGWgSx9JnUBqTW8/view?usp=sharing">Link</a> |
         | 10:30–11:00 | Coffee Break &#9749;                |  |  |
         | 11:00–11:45 | Hands-on Session | <a href="/#leonardo">Leonardo Lamanna</a> | <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1F9_ETFJi3ROle882Z2mESp_2AiHfAnSS/view?usp=sharing">Link</a> |
-        | 11:45–12:30 | Online Learning and Open Challenges | <a href="/#roni">Roni Stern</a> | TBA |
+        | 11:45–12:30 | Online Learning and Open Challenges | <a href="/#roni">Roni Stern</a> | <a href="https://docs.google.com/presentation/d/1vUT2LWzrfz8dx-zuCERD3iitvyAq3nlz/edit?usp=sharing&ouid=110881615268345929742&rtpof=true&sd=true">Link</a> |
     design:
       css_class: "dark"
 
