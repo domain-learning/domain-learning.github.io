@@ -36,7 +36,7 @@ header:
     logo:
       # Logo filename in `assets/media/` folder
       enable: true
-      filename: 'logo.svg'
+      filename: 'logo_aamas.svg'
     button:
       enable: false
       text: 'Get Started'

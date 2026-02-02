@@ -52,13 +52,10 @@ sections:
         </div>
 
 
-
         <div class="flex justify-center items-center space-x-8 mt-24">
-
           <a href="https://www.bgu.ac.il/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
             <img src="/assets/media/bengurion_logo_transparent.png" class="max-h-full max-w-full object-contain" 
           </a>
-
           <a href="https://www.fbk.eu/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
             <img src="/assets/media/fbk_logo_transparent.png" class="max-h-full max-w-full object-contain">
           </a>
