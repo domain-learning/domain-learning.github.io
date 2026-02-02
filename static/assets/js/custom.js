@@ -54,11 +54,11 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
-// Set AAAI logo link in the navbar menu
+// Set conference logo link in the navbar menu
 document.addEventListener("DOMContentLoaded", () => {
   const logoLink = document.querySelector(".navbar a"); // adjust class as per your theme
   if (logoLink) {
-    logoLink.setAttribute("href", "https://aaai.org/conference/aaai/aaai-26/");
+    logoLink.setAttribute("href", "https://cyprusconferences.org/aamas2026/");
     logoLink.setAttribute("target", "_blank");
     logoLink.setAttribute("rel", "noopener");
   }

@@ -26,13 +26,13 @@ sections:
         </div>
         
         <p class="mt-12 text-lg leading-8 text-gray-600 dark:text-gray-300">
-          Tutorial at the AAMAS 2026 Conference — 3.5 hours of theory and hands-on practice
+          Tutorial at the AAAI 2026 Conference — 3.5 hours of theory and hands-on practice
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300">
-          TBD
+          8.30am - 12.30pm, January 21<sup>st</sup> 2026
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300 mt-12">
-          TBD, Coral Beach Hotel
+          <b>Room Topaz Meeting at 2<sup>nd</sup> Level</b>, Singapore EXPO
         </p>
         
         
@@ -51,22 +51,19 @@ sections:
            -->
         </div>
 
-
-
-        <div class="flex justify-center items-center space-x-8 mt-24">
-
-          <a href="https://www.bgu.ac.il/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
-            <img src="/assets/media/bengurion_logo_transparent.png" class="max-h-full max-w-full object-contain" 
+        <div class="flex justify-center items-center space-x-8 mt-12">
+          <a href="https://www.queensu.ca/" target="_blank" rel="noopener">
+            <img src="/assets/media/queens_logo_transparent.png" class="h-8 md:h-10 object-contain">
           </a>
-
-          <a href="https://www.fbk.eu/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
-            <img src="/assets/media/fbk_logo_transparent.png" class="max-h-full max-w-full object-contain">
+          <a href="https://www.fbk.eu/" target="_blank" rel="noopener">
+            <img src="/assets/media/fbk_logo_transparent.png" class="h-8 md:h-10 object-contain">
           </a>
-        </div>
+          <a href="https://www.bgu.ac.il/" target="_blank" rel="noopener">
+            <img src="/assets/media/bengurion_logo_transparent.png" class="h-8 md:h-10 object-contain">
+          </a>
+        </div> 
         
-        <!-- Tooltip / small modal
         <img src="/assets/media/map.jpg" alt="Venue map" class="mx-auto w-full max-w-md mt-6 rounded-lg shadow-md" />
-        -->
     
     
     design:
@@ -89,7 +86,7 @@ sections:
             </p>
             <p class="text-lg leading-8 text-gray-600 dark:text-gray-300 mb-4">
               <strong>This tutorial covers the literature for automatically learning planning domain models from observations.</strong> 
-              This includes methods for learning actions' preconditions and effects, identifying useful state representations, and active model acquisition. 
+              This includes methods for learning actions' preconditions and effects, identifying useful state representations, and online model acquisition. 
             </p>
             <p class="text-lg leading-8 text-gray-600 dark:text-gray-300 mb-4">
               Participants will gain a solid understanding of the core concepts in this active area of research, learn how it connects to Model-Based Reinforcement Learning, and become familiar with the state of the art. The tutorial also includes a hands-on session with open-source tools for <em>learning</em> and <em>evaluating</em> planning domain models.
@@ -123,16 +120,16 @@ sections:
       title: 
       text: |
         
-        <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-6 text-center">Tutorial Schedule (tentative)</h2>
+        <h2 class="text-2xl font-bold text-gray-800 dark:text-gray-100 mb-6 text-center">Tutorial Schedule</h2>
 
         | Time       | Session                           | Speaker                           | Slides                           |
         |------------|-----------------------------------|-----------------------------------|-----------------------------------|
-        | TBD | Introduction & Domain Learning Basics | <a href="/#roni">Roni Stern</a> | TBA |
-        | TBD | Learning State Abstractions | <a href="/#roni">Roni Stern</a> | TBA |
-        | TBD | Offline Learning Action Models  | <a target="_blank" rel="noopener noreferrer" href="/#leonardo">Leonardo Lamanna</a> | TBA |
-        | TBD | Coffee Break &#9749;                |  |  |
-        | TBD | Hands-on Session | <a href="/#leonardo">Leonardo Lamanna</a> | TBA |
-        | TBD | Active Learning and Open Challenges | <a href="/#roni">Roni Stern</a> | TBA |
+        | 08:30–09:15 | Introduction & Domain Learning Basics | <a href="/#roni">Roni Stern</a> | <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/presentation/d/1oifxHpg_CL0kwwHnjcFu4XZPZulSxloc/edit?usp=sharing&ouid=110881615268345929742&rtpof=true&sd=true">Link</a> |
+        | 09:15–09:45 | Learning State Abstractions | <a href="/#roni">Roni Stern</a> | <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/presentation/d/18r16PhJuQvE-btOY16BEV725xGfv8IPp/edit?usp=sharing&ouid=110881615268345929742&rtpof=true&sd=true">Link</a> |
+        | 09:45–10:30 | Offline Learning Action Models  | <a target="_blank" rel="noopener noreferrer" href="/#leonardo">Leonardo Lamanna</a> | <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/11p8k069kU_DXmL1A3pGWgSx9JnUBqTW8/view?usp=sharing">Link</a> |
+        | 10:30–11:00 | Coffee Break &#9749;                |  |  |
+        | 11:00–11:45 | Hands-on Session | <a href="/#leonardo">Leonardo Lamanna</a> | <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1F9_ETFJi3ROle882Z2mESp_2AiHfAnSS/view?usp=sharing">Link</a> |
+        | 11:45–12:30 | Active Learning and Open Challenges | <a href="/#roni">Roni Stern</a> | <a target="_blank" rel="noopener noreferrer" href="https://docs.google.com/presentation/d/1vUT2LWzrfz8dx-zuCERD3iitvyAq3nlz/edit?usp=sharing&ouid=110881615268345929742&rtpof=true&sd=true">Link</a> |
     design:
       css_class: "dark"
 
@@ -154,6 +151,18 @@ sections:
               <h3 class="font-semibold">Roni Stern</h3>
               <p class="text-gray-600">
                 Professor and head of the Software Engineering program at Ben Gurion University of the Negev, Israel. Among other roles in the AI community, he served as the President of the Symposium on Combinatorial Search (SoCS), and the co-Program Chair for the International Conference on Automated Planning (ICAPS).
+              </p>
+            </div>
+          </div>
+
+          <!-- Organizer 2 -->
+          <div class="flex flex-col md:flex-row items-center space-y-4 md:space-y-0 md:space-x-6 bg-white rounded-xl shadow px-4 py-4 card"
+          id = "chris">
+            <img src="/assets/media/christian.jpg" alt="Organizer 2" class="w-32 h-32 rounded-full object-cover">
+            <div>
+              <h3 class="font-semibold">Christian Muise</h3>
+              <p class="text-gray-600">
+                Assistant Professor at Queen's University in Kingston, Ontario, Canada. His research focuses on model understanding in the field of automated planning, and his work has been recognized with both a Distinguished Dissertation Award and an Influential Paper Award from the International Conference on Automated Planning and Scheduling (ICAPS). He also sits on the ICAPS council after serving as Program Co-Chairs for ICAPS 2024.
               </p>
             </div>
           </div>
@@ -186,10 +195,10 @@ sections:
 
         - AMLGym: benchmarking action model learning [GitHub](https://github.com/LamannaLeonardo/AMLGym) [Docs](https://amlgym.readthedocs.io/en/latest/) 
         - MAcq: The Model Acquisition Toolkit: [GitHub](https://github.com/AI-Planning/macq)  [Website](https://macq.planning.domains/) 
-        - L2P : LLM-driven Planning Model library kit: [GitHub](https://github.com/AI-Planning/l2p)
-        - PDDL generators: [GitHub](https://github.com/AI-Planning/pddl-generators)
         - The AIPlan4EU Unified Planning Library: [GitHub](https://github.com/aiplan4eu/unified-planning) [Docs](https://unified-planning.readthedocs.io/en/latest/)
+        - PDDL generators: [GitHub](https://github.com/AI-Planning/pddl-generators)
         - PDDL 3.1 parser: [GitHub](https://github.com/AI-Planning/pddl)
+        - L2P : LLM-driven Planning Model library kit: [GitHub](https://github.com/AI-Planning/l2p)
 
         ---
 
@@ -232,10 +241,23 @@ sections:
             <img src="/assets/media/fbk_logo_original.png" style="height:90%; object-fit:contain;">
           </a>
 
+          <a href="https://www.queensu.ca/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
+            <img src="/assets/media/queens_logo_original.png" class="max-h-full max-w-full object-contain">
+          </a>
+        </div>
+
+
+        <div class="flex justify-center items-center space-x-8 mt-12">
+          <a href="https://mulab.ai/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
+            <img src="/assets/media/mulab.png" class="max-h-full max-w-full object-contain">
+          </a>
+          <a href="https://fondazione-fair.it/en/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
+            <img src="/assets/media/fair_logo.png" class="max-h-full max-w-full object-contain">
+          </a>
           <a href="https://www.8ra.com/ipcei-cis/" target="_blank" rel="noopener" class="flex items-center justify-center w-48 h-24">
             <img src="/assets/media/ipcei_cis_logo.jpg" class="max-h-full max-w-full object-contain", style="border-radius: 25px;">
           </a>
-        </div>
+        </div> 
 
         
     design:
