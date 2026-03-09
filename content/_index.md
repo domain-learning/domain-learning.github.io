@@ -12,7 +12,7 @@ sections:
   - block: hero
     id: home
     content:
-      title: Domain Model Learning in AI Planning
+      title: Domain Model Learning for Automated Planning
       text: |
         
         <script src="/assets/js/custom.js"></script>
@@ -29,10 +29,10 @@ sections:
           Tutorial at the AAMAS 2026 Conference — 3.5 hours of theory and hands-on practice
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300">
-          TBD
+          January 26<sup>th</sup>, a.m., 2026
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300 mt-12">
-          TBD, Coral Beach Hotel
+          Coral Beach Hotel
         </p>
         
         
@@ -127,12 +127,12 @@ sections:
 
         | Time       | Session                           | Speaker                           | Slides                           |
         |------------|-----------------------------------|-----------------------------------|-----------------------------------|
-        | TBD | Introduction & Domain Learning Basics | <a href="/#roni">Roni Stern</a> | TBA |
-        | TBD | Learning State Abstractions | <a href="/#roni">Roni Stern</a> | TBA |
-        | TBD | Offline Learning Action Models  | <a target="_blank" rel="noopener noreferrer" href="/#leonardo">Leonardo Lamanna</a> | TBA |
-        | TBD | Coffee Break &#9749;                |  |  |
-        | TBD | Hands-on Session | <a href="/#leonardo">Leonardo Lamanna</a> | TBA |
-        | TBD | Active Learning and Open Challenges | <a href="/#roni">Roni Stern</a> | TBA |
+        | 08:30–09:15 | Introduction & Domain Learning Basics | <a href="/#roni">Roni Stern</a> | TBA |
+        | 09:15–09:45 | Learning State Abstractions | <a href="/#roni">Roni Stern</a> | TBA |
+        | 9:45-10:15 | Coffee Break &#9749;                |  |  |
+        | 10:15-11.00 | Offline Learning Action Models  | <a target="_blank" rel="noopener noreferrer" href="/#leonardo">Leonardo Lamanna</a> | TBA |
+        | 11.00-11.45 | Hands-on Session | <a href="/#leonardo">Leonardo Lamanna</a> | TBA |
+        | 11.45-12.30 | Active Learning and Open Challenges | <a href="/#roni">Roni Stern</a> | TBA |
     design:
       css_class: "dark"
 
