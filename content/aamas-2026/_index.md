@@ -29,7 +29,7 @@ sections:
           Tutorial at the AAMAS 2026 Conference — 3.5 hours of theory and hands-on practice
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300">
-          January 26<sup>th</sup>, a.m., 2026
+          May 26<sup>th</sup>, a.m., 2026
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300 mt-12">
           Coral Beach Hotel
