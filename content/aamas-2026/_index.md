@@ -29,10 +29,10 @@ sections:
           Tutorial at the AAMAS 2026 Conference — 3.5 hours of theory and hands-on practice
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300">
-          May 26<sup>th</sup>, a.m., 2026
+          08:45am - 12:30pm, May 26<sup>th</sup>, 2026
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300 mt-12">
-          Coral Beach Hotel
+          <strong>Coral Beach Hotel</strong>
         </p>
         
         
@@ -127,12 +127,12 @@ sections:
 
         | Time       | Session                           | Speaker                           | Slides                           |
         |------------|-----------------------------------|-----------------------------------|-----------------------------------|
-        | 08:30–09:15 | Introduction & Domain Learning Basics | <a href="/#roni">Roni Stern</a> | TBA |
-        | 09:15–09:45 | Learning State Abstractions | <a href="/#roni">Roni Stern</a> | TBA |
-        | 9:45-10:15 | Coffee Break &#9749;                |  |  |
-        | 10:15-11.00 | Offline Learning Action Models  | <a target="_blank" rel="noopener noreferrer" href="/#leonardo">Leonardo Lamanna</a> | TBA |
-        | 11.00-11.45 | Hands-on Session | <a href="/#leonardo">Leonardo Lamanna</a> | TBA |
-        | 11.45-12.30 | Active Learning and Open Challenges | <a href="/#roni">Roni Stern</a> | TBA |
+        | 08:45–09:30 | Introduction & Domain Learning Basics | TBA | TBA |
+        | 09:30-10.15 | Offline Learning Action Models  | TBA | TBA |
+        | 10:15-10:30 | Coffee Break &#9749;                |  |  |
+        | 10:30–11:00 | Learning State Abstractions | TBA | TBA |
+        | 11.00-11.45 | Active Learning and Open Challenges | TBA | TBA |
+        | 11.45-12.30 | Hands-on Session | TBA | TBA |
     design:
       css_class: "dark"
 
