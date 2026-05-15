@@ -32,7 +32,7 @@ sections:
           08:45am - 12:30pm, May 26<sup>th</sup>, 2026
         </p>
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300 mt-12">
-          <strong>Coral Beach Hotel</strong>
+          <strong>Coral Beach Hotel</strong>, Paphos, Cyprus.
         </p>
         
         
