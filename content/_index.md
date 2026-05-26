@@ -29,12 +29,13 @@ sections:
           Tutorial at the AAMAS 2026 Conference — 3.5 hours of theory and hands-on practice
         </p>
 
-        <!-- News Badge -->
+        <!-- News Badge
         <div class="flex justify-center items-center w-full mt-6">
           <div class="news-badge bg-red-600 text-white font-bold text-lg px-6 py-3 rounded-full shadow-2xl border-2 border-red-300 text-center">
             🚨 News: tutorial starts at 8:30am!
           </div>
         </div>
+         -->
         
         <p class="text-lg leading-8 text-gray-600 dark:text-gray-300">
           08:30am - 12:30pm, May 26<sup>th</sup>, 2026
